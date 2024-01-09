@@ -16,3 +16,7 @@ oin-poin penting dari fungsi akhir():
 -Catatan Akhir: Terdapat pemanggilan fungsi daftar_barang() di bagian terakhir kode. Harap dicatat bahwa fungsi ini harus didefinisikan sebelumnya dalam program agar tidak terjadi kesalahan.
 
 -Saran: Pertimbangkan untuk memindahkan pemanggilan daftar_barang() ke bagian awal program atau sebelum fungsi akhir(). Ini akan memastikan bahwa fungsi daftar_barang() sudah didefinisikan sebelum digunakan.
+
+## LINK
+
+link YT  https://youtube.com/watch?v=GmZvVMVNFIE&si=SJBegQ3GbmEAA3e4
