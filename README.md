@@ -1,5 +1,7 @@
 ## PENJELASAN
 
+![Screenshot (70)](https://github.com/arjuna46/ProjekUAS/assets/147571007/494b6536-0378-4ee2-908e-c40db51e8724)
+
 Fungsi akhir() yang Anda berikan terlihat seperti bagian akhir dari program, di mana perhitungan total harga, potongan harga, pembayaran, kembalian, dan pesan terakhir dilakukan. Di bawah ini adalah penjelasan untuk setiap bagian dari fungsi tersebut:
 oin-poin penting dari fungsi akhir():
 
