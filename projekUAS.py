@@ -2,7 +2,7 @@ import sys
 total = []
 
 print("--------------------------")
-print("KASIR UNIVERSITAS PELITA BANGSA")
+print("KASIR UNIVERSITAS PELITA BANGSA") 
 print("-------------------------------")
 
 def daftar_barang():
@@ -13,11 +13,6 @@ def daftar_barang():
     print("| 3  | Bakwan             | 1000  |")
     print("| 4  | Gorengan Pisang    | 1000  |")
     print("| 5  | Es Good Day Fresh  | 5000  |")
-    print("| 6  | Teh Manis          | 5000  |")
-    print("| 7  | Ayam Geprek        | 15000 |")
-    print("| 8  | Ayam Penyet        | 15000 |")
-    print("| 9  | Aqua               | 5000  |")
-    print("| 10 | Kopi Hitam         | 4000  |")
 
     print("-------------------------------")
     kode = int(input("Masukkan angka makanan  : "))
@@ -45,31 +40,6 @@ def daftar_barang():
         jumlah5 = int(input("Masukkan jumlah makanan : "))
         total5 = 5000 * jumlah5   
         total.append(total5)
-        tanya()
-    elif kode == 6:
-        jumlah6 =int(input("Masukan jumlah makanan :"))
-        total6 = 5000 * jumlah6
-        total.append(total6)
-        tanya()
-    elif kode == 7:
-        jumlah7 =int(input("Masukan jumlah makanan :"))
-        total7 = 15000 * jumlah7
-        total.append(total7)
-        tanya()
-    elif kode == 8:
-        jumlah8 =int(input("Masukan jumlah makanan :"))
-        total8 = 15000 * jumlah8
-        total.append(total8)
-        tanya()
-    elif kode == 9:
-        jumlah9 =int(input("Masukan jumlah makanan :"))
-        total9 = 5000 * jumlah9
-        total.append(total9)
-        tanya()
-    elif kode == 10:
-        jumlah10 =int(input("Masukan jumlah makanan :"))
-        total10 = 4000 * jumlah10
-        total.append(total10)
         tanya()
     return
 
